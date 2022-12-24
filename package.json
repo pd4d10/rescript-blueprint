@@ -1,6 +1,6 @@
 {
   "name": "rescript-blueprint",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Rescript bindings for Blueprint (React-based UI toolkit)",
   "main": "index.js",
   "scripts": {
