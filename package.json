@@ -10,6 +10,10 @@
     "rescript",
     "blueprint"
   ],
+  "files": [
+    "bsconfig.json",
+    "src"
+  ],
   "author": "Rongjian Zhang",
   "license": "MIT",
   "devDependencies": {
