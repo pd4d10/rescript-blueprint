@@ -13,6 +13,10 @@
   "author": "Rongjian Zhang",
   "license": "MIT",
   "devDependencies": {
+    "@blueprintjs/core": "^4.13.0",
     "rescript": "^10.1.0"
+  },
+  "peerDependencies": {
+    "@blueprintjs/core": "4"
   }
 }
