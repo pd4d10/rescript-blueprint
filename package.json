@@ -14,9 +14,11 @@
   "license": "MIT",
   "devDependencies": {
     "@blueprintjs/core": "^4.13.0",
+    "@rescript/react": "0.11.0",
     "rescript": "^10.1.0"
   },
   "peerDependencies": {
+    "@rescript/react": ">= 0.10.0",
     "@blueprintjs/core": "4"
   }
 }

@@ -2,10 +2,12 @@ lockfileVersion: 5.4
 
 specifiers:
   '@blueprintjs/core': ^4.13.0
+  '@rescript/react': 0.11.0
   rescript: ^10.1.0
 
 devDependencies:
   '@blueprintjs/core': 4.13.0
+  '@rescript/react': 0.11.0
   rescript: 10.1.0
 
 packages:
@@ -66,6 +68,13 @@ packages:
 
   /@juggle/resize-observer/3.4.0:
     resolution: {integrity: sha512-dfLbk+PwWvFzSxwk3n5ySL0hfBog779o8h68wK/7/APo/7cgyWp5jcXockbxdk5kFRkbeXWm4Fbi9FrdN381sA==}
+    dev: true
+
+  /@rescript/react/0.11.0:
+    resolution: {integrity: sha512-RzoAO+3cJwXE2D7yodMo4tBO2EkeDYCN/I/Sj/yRweI3S1CY1ZBOF/GMcVtjeIurJJt7KMveqQXTaRrqoGZBBg==}
+    peerDependencies:
+      react: '>=18.0.0'
+      react-dom: '>=18.0.0'
     dev: true
 
   /@types/dom4/2.0.2:
